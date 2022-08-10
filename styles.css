@@ -1,0 +1,38 @@
+body{
+
+     background-color: #EAF6F6;
+    }
+
+    hr{border-style: none;
+       border-top-style: dotted;
+        border-width: 5px;
+        border-color: grey;
+
+        width:100%;
+      }
+      h1{color: #66BFBF;
+          text-decoration-line:underline;
+          text-decoration-color:Red;
+          animation-play-state:running; }
+      h3{color: #66BFBF;}
+
+
+      .Diploma{background-color: #9ED2C6;}
+      .Skills{background-color: #F65A83;}
+img:hover{background-color: #100F0F;
+           border-radius: 210px;}
+h1:hover{color:#F65A83; }
+
+a:visited{color:#D1512D;
+          text-decoration-color: hotpink;}
+div{background-color: #FFF9CA;}
+.Education{background-color: #FFEA11;}
+.PUT{font-family:"papyrus",fantasy;}
+body{margin-left: 0;
+     margin-right: 0;
+   margin-top: 0;}
+.END{
+  
+  width: 100%;
+  align-items: center;
+}
